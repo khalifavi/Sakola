@@ -1,4 +1,4 @@
-# PENTING : Sekarang pengembangan dilanjutkan di [Sakola](http://github.com/Sakola)
+# PENTING : Sekarang pengembangan dilanjutkan di [Sakolaa](http://github.com/sakolaa)
 
 Sakola
 ======
