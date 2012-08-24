@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['kalender:new']                   = 'New Event';
 $lang['kalender:edit']                  = 'Edit Event';
