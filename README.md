@@ -1,3 +1,5 @@
+# PENTING : Sekarang pengembangan dilanjutkan di (Sakola)[http://github.com/Sakola]
+
 Sakola
 ======
 
